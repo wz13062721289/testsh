@@ -6,6 +6,7 @@ import android.os.Bundle
 //dev_zan 1
 //dev_zan 2
 //dev_zan 3
+//dev_zan 4
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
