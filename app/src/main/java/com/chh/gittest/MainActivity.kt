@@ -14,6 +14,7 @@ import android.os.Bundle
 //dev_zan 测试提交
 class MainActivity : AppCompatActivity() {
     //我是dev_sen3
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
